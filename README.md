@@ -5,6 +5,7 @@ MoodSound es una aplicación móvil creada con Flutter que ayuda a los usuarios 
 Su diseño está enfocado en la simplicidad, facilidad de uso y una experiencia visual atractiva, permitiendo que cualquier usuario pueda navegar por la aplicación y reproducir música de manera rápida y cómoda.
 
 Funcionalidades
+
 Creación de cuentas de usuario.
 Acceso mediante inicio de sesión.
 Selección de emociones o estados de ánimo.
@@ -19,13 +20,13 @@ Organización del proyecto
 
 lib/
 │
-├── models/          Datos y estructuras de información
-├── providers/       Administración del estado de la aplicación
-├── screens/         Interfaces y pantallas
-├── services/        Servicios y conexión con APIs
-├── widgets/         Componentes reutilizables
-├── assets/          Recursos visuales
-└── main.dart        Archivo principal
+├── models/      
+├── providers/      
+├── screens/       
+├── services/     
+├── widgets/        
+├── assets/         
+└── main.dart       
 
 
 Requisitos

@@ -39,7 +39,7 @@ Visual Studio Code o Android Studio.
 Dispositivo físico o emulador Android.
 Instalación y ejecución
 Descargar el proyecto
-git clone https://github.com/TU-USUARIO/MoodSound.git
+https://github.com/abi-jr/Moodsound_CAAL_ESMB/blob/main/README.md
 Acceder al directorio
 cd MoodSound
 Obtener dependencias

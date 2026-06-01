@@ -8,13 +8,15 @@ Funcionalidades
 Creación de cuentas de usuario.
 Acceso mediante inicio de sesión.
 Selección de emociones o estados de ánimo.
-Recomendación de canciones según la emoción elegida.
 Reproducción de música en streaming.
 Gestión de canciones favoritas.
 Navegación intuitiva entre pantallas.
 Almacenamiento local de información básica.
 Diseño moderno inspirado en aplicaciones musicales actuales.
+
 Organización del proyecto
+
+
 lib/
 │
 ├── models/          Datos y estructuras de información
@@ -24,6 +26,8 @@ lib/
 ├── widgets/         Componentes reutilizables
 ├── assets/          Recursos visuales
 └── main.dart        Archivo principal
+
+
 Requisitos
 
 Antes de ejecutar el proyecto es necesario contar con:
@@ -41,6 +45,7 @@ Obtener dependencias
 flutter pub get
 Iniciar la aplicación
 flutter run
+
 Guía rápida de uso
 Registrarse en la aplicación.
 Iniciar sesión con la cuenta creada.
@@ -50,6 +55,7 @@ Reproducir canciones disponibles.
 Guardar canciones favoritas.
 Consultar la sección de favoritos.
 Personalizar algunas opciones de la aplicación.
+
 Herramientas utilizadas
 Flutter
 Dart
@@ -57,6 +63,7 @@ Provider
 HTTP
 Shared Preferences
 Audioplayers
+
 Equipo de desarrollo
 César Abisai Arroyo López
 Edson Sueriel Balderas Martínez

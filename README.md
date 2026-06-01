@@ -10,13 +10,21 @@ Creación de cuentas de usuario. Acceso mediante inicio de sesión. Selección d
 
 Organización del proyecto
 
-lib/ │ ├── models/
+lib/ │ 
+├── models/
+
 ├── providers/
+
 ├── screens/
+
 ├── services/
+
 ├── widgets/
+
 ├── assets/
+
 └── main.dart
+
 
 Requisitos
 
